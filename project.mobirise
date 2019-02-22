@@ -66,11 +66,11 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\">HAVE A PROJECT IN MIND?</span><br><span style=\"font-weight: normal;\">LET'S BUILD SOMETHING GREAT TOGETHER</span>",
           "text": "V",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BRANDING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MARKETING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW OUR WORKS</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BRANDING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MARKETING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ONE ON ONE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW OUR WORKS</a>",
           "_tags": [
             "Theme"
           ],
