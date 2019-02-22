@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 28,
+    "uniqCompNum": 30,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -375,7 +375,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li><li>View our works</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -584,7 +584,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li><li>View our works</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -865,7 +865,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li><li>View our works</li></ul>",
           "_tags": [
             "Theme"
           ],
