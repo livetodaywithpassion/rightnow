@@ -143,11 +143,11 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "36px"
             },
             ".lead P": {
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "20px"
             }
           },
@@ -311,7 +311,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VIEW OUR WORKS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-j\" aria-expanded=\"false\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VIEW OUR WORKS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -375,7 +375,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"page1.html\">Design</a></li><li><a href=\"index.html\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"index.html#msg-box8-j\">Design</a></li><li><a href=\"index.html#msg-box8-j\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -520,7 +520,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VIEW OUR WORKS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-j\" aria-expanded=\"false\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VIEW OUR WORKS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -584,7 +584,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"page1.html\">Design</a></li><li><a href=\"index.html\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"index.html#msg-box8-j\">Design</a></li><li><a href=\"index.html#msg-box8-j\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -801,7 +801,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VIEW OUR WORKS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-j\" aria-expanded=\"false\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VIEW OUR WORKS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -865,7 +865,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"page1.html\">Design</a></li><li><a href=\"index.html\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"index.html#msg-box8-j\">Design</a></li><li><a href=\"index.html#msg-box8-j\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
           "_tags": [
             "Theme"
           ],
