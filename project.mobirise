@@ -171,7 +171,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Team",
-          "text": "<p>Endlessly curious, creatively inspired and strategically-minded. Our leadership team from Viet Nam, Australia, Poland, and Norway but shares the common tongue of hustle + passion.</p>",
+          "text": "<p>Endlessly curious, creatively inspired and strategically minded. Our leadership team from Viet Nam, Australia, Poland, and Norway but shares the common tongue of hustle &amp; passion.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -375,7 +375,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li><li>View our works</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"page1.html\">Design</a></li><li><a href=\"index.html\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -584,7 +584,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li><li>View our works</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"page1.html\">Design</a></li><li><a href=\"index.html\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -865,7 +865,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Wieses gate 2, 2609 Lillehammer<br><br>\n<strong>Contacts</strong><br>\nEmail: support@rnow.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"index.html\">Links</a></strong></p><ul><li><a href=\"index.html\">Branding</a></li><li><a href=\"index.html\">Marketing</a></li><li>View our works</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Services</b></span></font></p><ul><li><a href=\"page1.html\">Design</a></li><li><a href=\"index.html\">Marketing</a></li><li><a href=\"page1.html\">View our works</a></li></ul>",
           "_tags": [
             "Theme"
           ],
