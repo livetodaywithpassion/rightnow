@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "\bRNOW.IO",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1006,7 +1006,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Team",
-          "text": "<p>Endlessly curious, creatively inspired and strategically minded. Our leadership team from Viet Nam, Australia, Poland, and Norway but shares the common tongue of hustle &amp; passion.</p>",
+          "text": "<p>Endlessly curious, creatively inspired and strategically minded. Our leadership team from Viet Nam, Australia, China, Poland, and Norway but shares the common tongue of hustle &amp; passion.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
