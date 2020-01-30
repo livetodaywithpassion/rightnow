@@ -30,14 +30,17 @@
     "versionFirst": "4.9.3",
     "siteFonts": [],
     "uniqCompNum": 4,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "undefined",
+    "siteUrl": "",
     "сanonical-url": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "canonical-url": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -1154,8 +1157,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
