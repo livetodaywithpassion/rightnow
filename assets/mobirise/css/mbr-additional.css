@@ -752,20 +752,6 @@ section.form .container {
   text-align: left;
   font-size: 20px;
 }
-#form1-k .form-control-label {
-  color: #232323;
-}
-#form1-k SMALL {
-  color: #000000;
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
-}
-#form1-k SPAN {
-  font-family: 'Raleway', sans-serif;
-}
-#form1-k .mbr-section-title {
-  font-size: 36px;
-}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -826,4 +812,24 @@ section.form .container {
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header6-4 .mbr-section-title {
+  color: #28262b;
+}
+#header6-4 .mbr-section-text {
+  color: #565656;
+}
+#form1-k .form-control-label {
+  color: #232323;
+}
+#form1-k SMALL {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-k SPAN {
+  font-family: 'Raleway', sans-serif;
+}
+#form1-k .mbr-section-title {
+  font-size: 36px;
 }
