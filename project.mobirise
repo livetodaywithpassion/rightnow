@@ -896,7 +896,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/simone-hutsch-1lsqlbl-pic-unsplash-2000x2053.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jakob-owens-rorlqi5t93k-unsplash-2000x3086.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -906,7 +906,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\">HAVE A PROJECT IN MIND?</span><br>",
           "text": "<span style=\"font-style: normal;\">LET'S BUILD SOMETHING GREAT TOGETHER<br></span>",
