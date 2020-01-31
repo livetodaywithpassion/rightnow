@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "\bRNOW.IO",
-    "currentPage": "page3.html",
+    "currentPage": "index .html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -877,10 +877,10 @@
         }
       ]
     },
-    "page3.html": {
+    "index .html": {
       "settings": {
         "main": true,
-        "title": "Page 3",
+        "title": "Rnow",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
