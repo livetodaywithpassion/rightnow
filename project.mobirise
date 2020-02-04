@@ -474,7 +474,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "70",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
             "parallax": true,
