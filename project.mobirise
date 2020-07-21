@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "\bRNOW.IO",
-    "currentPage": "About me.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#efefef",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -49,7 +49,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "RNow Taking Ideas To Reality",
+        "title": "RNow Studios",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -64,7 +64,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jakob-owens-rorlqi5t93k-unsplash-2000x3086.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -73,8 +73,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.2"
           },
           "title": "<span style=\"font-weight: normal;\">HAVE A PROJECT IN MIND?</span><br>",
           "text": "<span style=\"font-style: normal;\">LET'S BUILD SOMETHING GREAT TOGETHER<br></span>",
@@ -203,22 +203,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -231,7 +231,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_params": {
@@ -800,7 +800,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_params": {
@@ -1157,22 +1157,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1185,7 +1185,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_params": {
